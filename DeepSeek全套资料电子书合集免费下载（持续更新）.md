@@ -30,18 +30,18 @@
 ## 北京大学DeepSeek系列：
 ### 北京大学1：deepseek与aigc应用
 
-北京大学1：DeepSeek与AIGC应用 - AI|DeepSeek|ChatGpt|AIGC资源在线
+[北京大学1：DeepSeek与AIGC应用 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/12-%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A61deepseek%E4%B8%8Eaigc%E5%BA%94%E7%94%A8)
 
 ### 北京大学2：deepseek提示词工程和落地场景
 
-北京大学2：DeepSeek提示词工程和落地场景 - AI|DeepSeek|ChatGpt|AIGC资源在线
+[北京大学2：DeepSeek提示词工程和落地场景 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/13-%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A62deepseek%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B%E5%92%8C%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AF)
 
 ### 北京大学3：deepseek-私有化部署和一体机
 
-北京大学3-DeepSeek 私有化部署和一体机 - AI|DeepSeek|ChatGpt|AIGC资源在线
+[北京大学3-DeepSeek 私有化部署和一体机 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/14-%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A63-deepseek-%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2%E5%92%8C%E4%B8%80%E4%BD%93%E6%9C%BA)
 
 ### 北京大学4：deepseek原理与落地应用
 
-北京大学4-DeepSeek原理与落地应用 - AI|DeepSeek|ChatGpt|AIGC资源在线
+[北京大学4-DeepSeek原理与落地应用 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/43--%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A64-deepseek%E5%8E%9F%E7%90%86%E4%B8%8E%E8%90%BD%E5%9C%B0%E5%BA%94%E7%94%A8)
 
 ​
