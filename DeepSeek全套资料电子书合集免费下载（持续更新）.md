@@ -46,5 +46,22 @@
 ### 北京大学4：deepseek原理与落地应用
 
 [北京大学4-DeepSeek原理与落地应用 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/43--%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A64-deepseek%E5%8E%9F%E7%90%86%E4%B8%8E%E8%90%BD%E5%9C%B0%E5%BA%94%E7%94%A8)
-
 ​
+## 浙江大学DeepSeek系列：
+### 浙江大学：deepseek行业应用
+[浙江大学：deepseek行业应用 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/15-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6deepseek%E8%A1%8C%E4%B8%9A%E5%BA%94%E7%94%A8)
+
+### 📔 浙江大学-DeepSeek智能时代的全面到来和人机协作的新常态
+[📔 浙江大学-DeepSeek智能时代的全面到来和人机协作的新常态 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/41--%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6-deepseek%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3%E7%9A%84%E5%85%A8%E9%9D%A2%E5%88%B0%E6%9D%A5%E5%92%8C%E4%BA%BA%E6%9C%BA%E5%8D%8F%E4%BD%9C%E7%9A%84%E6%96%B0%E5%B8%B8%E6%80%81)
+
+### 📔 浙江大学-DeepSeek模型优势：算力、成本角度解读
+[📔 浙江大学-DeepSeek模型优势：算力、成本角度解读 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/45--%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6-deepseek%E6%A8%A1%E5%9E%8B%E4%BC%98%E5%8A%BF%E7%AE%97%E5%8A%9B%E6%88%90%E6%9C%AC%E8%A7%92%E5%BA%A6%E8%A7%A3%E8%AF%BB)
+
+### 📔 浙江大学-DeepSeek（回望AI三大主义与加强通识教育）
+[📔 浙江大学-DeepSeek（回望AI三大主义与加强通识教育） - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/40--%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6-deepseek%E5%9B%9E%E6%9C%9Bai%E4%B8%89%E5%A4%A7%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%8A%A0%E5%BC%BA%E9%80%9A%E8%AF%86%E6%95%99%E8%82%B2)
+
+### 📔 浙江大学-奇点临近，行业变革 DeepSeek模型解读
+[📔 浙江大学-奇点临近，行业变革 DeepSeek模型解读 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/42--%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6-%E5%A5%87%E7%82%B9%E4%B8%B4%E8%BF%91%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9-deepseek%E6%A8%A1%E5%9E%8B%E8%A7%A3%E8%AF%BB)
+
+### 浙江大学-Chatting or Acting？DeepSeek的突破边界与浙大先生的未来图景
+[浙江大学-Chatting or Acting？DeepSeek的突破边界与浙大先生的未来图景 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/37-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6-chatting-or-actingdeepseek%E7%9A%84%E7%AA%81%E7%A0%B4%E8%BE%B9%E7%95%8C%E4%B8%8E%E6%B5%99%E5%A4%A7%E5%85%88%E7%94%9F%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9B%BE%E6%99%AF)
