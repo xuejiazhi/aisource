@@ -27,6 +27,9 @@
 
 [清华大学第六弹：AIGC发展研究 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/44--%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%AC%AC%E5%85%AD%E5%BC%B9aigc%E5%8F%91%E5%B1%95%E7%A0%94%E7%A9%B6)
 
+### 清华大学第七弹-使用DeepSeek赋能家庭教育
+[清华大学第七弹-使用DeepSeek赋能家庭教育- AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/47-%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%83%E5%BC%B9-%E4%BD%BF%E7%94%A8deepseek%E8%B5%8B%E8%83%BD%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2)
+
 ## 北京大学DeepSeek系列：
 ### 北京大学1：deepseek与aigc应用
 
