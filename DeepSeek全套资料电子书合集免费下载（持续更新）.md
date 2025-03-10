@@ -65,3 +65,7 @@
 
 ### 浙江大学-Chatting or Acting？DeepSeek的突破边界与浙大先生的未来图景
 [浙江大学-Chatting or Acting？DeepSeek的突破边界与浙大先生的未来图景 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/37-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6-chatting-or-actingdeepseek%E7%9A%84%E7%AA%81%E7%A0%B4%E8%BE%B9%E7%95%8C%E4%B8%8E%E6%B5%99%E5%A4%A7%E5%85%88%E7%94%9F%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9B%BE%E6%99%AF)
+
+### 大任智库版 DeepSeek企业落地应用讲义精华全版
+[号称比清华还落地的DeepSeek资料-大任智库版 DeepSeek企业落地应用讲义精华全版 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/63-%E5%8F%B7%E7%A7%B0%E6%AF%94%E6%B8%85%E5%8D%8E%E8%BF%98%E8%90%BD%E5%9C%B0%E7%9A%84deepseek%E8%B5%84%E6%96%99-%E5%A4%A7%E4%BB%BB%E6%99%BA%E5%BA%93%E7%89%88-deepseek%E4%BC%81%E4%B8%9A%E8%90%BD%E5%9C%B0%E5%BA%94%E7%94%A8%E8%AE%B2%E4%B9%89%E7%B2%BE%E5%8D%8E%E5%85%A8%E7%89%88)
+
