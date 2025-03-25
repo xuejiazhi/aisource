@@ -30,6 +30,26 @@
 ### 清华大学第七弹-使用DeepSeek赋能家庭教育
 [清华大学第七弹-使用DeepSeek赋能家庭教育- AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/47-%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%83%E5%BC%B9-%E4%BD%BF%E7%94%A8deepseek%E8%B5%8B%E8%83%BD%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2)
 
+​
+### 清华大学第八弹-使用DeepSeek赋能品牌传播与营销
+[清华大学第八弹-DeepSeek-赋能品牌传播与营销 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/76-%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%AC%AC%E5%85%AB%E5%BC%B9-deepseek-%E8%B5%8B%E8%83%BD%E5%93%81%E7%89%8C%E4%BC%A0%E6%92%AD%E4%B8%8E%E8%90%A5%E9%94%80)
+
+### 清华大学第九弹-DeepSeek+Deep Research应用
+​[清华大学第九弹-DeepSeek+DeepResearch应用报告 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/77-%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B9%9D%E5%BC%B9-deepseekdeepresearch%E5%BA%94%E7%94%A8%E6%8A%A5%E5%91%8A)
+
+### 第十弹--基于DeepSeek的AI音乐词曲创作法
+​​[清华大学第十弹-基于DeepSeek的AI音乐词曲创作法 - AI|DeepSeek|ChatGpt|AIGC资源在线](https://www.aisource.online/d/78-%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%AC%AC%E5%8D%81%E5%BC%B9-%E5%9F%BA%E4%BA%8Edeepseek%E7%9A%84ai%E9%9F%B3%E4%B9%90%E8%AF%8D%E6%9B%B2%E5%88%9B%E4%BD%9C%E6%B3%95)
+
+### 清华大学第十一弹-文科生零基础AI编程：快速提升想象力和实操能力 
+[清华大学第十一弹-文科生零基础AI编程：快速提升想象力和实操能力](https://www.aisource.online/d/83-%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%AC%AC%E5%8D%81%E4%B8%80%E5%BC%B9-%E6%96%87%E7%A7%91%E7%94%9F%E9%9B%B6%E5%9F%BA%E7%A1%80ai%E7%BC%96%E7%A8%8B%E5%BF%AB%E9%80%9F%E6%8F%90%E5%8D%87%E6%83%B3%E8%B1%A1%E5%8A%9B%E5%92%8C%E5%AE%9E%E6%93%8D%E8%83%BD%E5%8A%9B)
+
+### 清华大学 - 第十二弹：AIGC 理论与实践（2025） - AIGC 如何帮助工作和学习
+[清华大学 - 第十二弹：AIGC 理论与实践（2025） - AIGC 如何帮助工作和学习](https://www.aisource.online/d/144-%EF%B8%8F%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6-%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%BC%B9aigc-%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B52025-aigc-%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E5%B7%A5%E4%BD%9C%E5%92%8C%E5%AD%A6%E4%B9%A0)
+
+### 清华大学-第十三弹deepseek-政务应用场景与解决方案
+[清华大学-第十三弹deepseek-政务应用场景与解决方案](https://www.aisource.online/d/145-%EF%B8%8F-%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6-%E7%AC%AC%E5%8D%81%E4%B8%89%E5%BC%B9deepseek-%E6%94%BF%E5%8A%A1%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E4%B8%8E%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+
+
 ## 北京大学DeepSeek系列：
 ### 北京大学1：deepseek与aigc应用
 
